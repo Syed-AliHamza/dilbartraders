@@ -1,0 +1,59 @@
+.banners .banner {
+  padding: 20px 20px;
+  font-family: mermaid;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  font-weight: 800 !important;
+}
+.banners .banner-grocery {
+  background: linear-gradient(
+      0deg,
+      /* rgba(255, 0, 150, 0.3), */ /* rgb(217, 140, 151.1), */
+        rgb(217, 140, 151.1, 0.5),
+      rgb(217, 140, 151.1, 0.9)
+    ),
+    url("https://img.freepik.com/free-vector/man-panic-buying-running-with-full-cart-market-because-pandemic-coronavirus_80802-419.jpg?size=626&ext=jpg");
+  background-position: 45% 35%;
+}
+.banners .banner h2 {
+  font-weight: bolder !important;
+  /* font-size: 29px; */
+}
+.banner-grocery-button {
+  background-color: #ba4555;
+}
+.banners .banner-cosmetics {
+  background: linear-gradient(
+      0deg,
+      /* rgba(255, 0, 150, 0.3), */ /* rgb(217, 140, 151.1), */
+        rgb(150, 188, 104, 0.9),
+      rgb(150, 188, 104, 0.5)
+    ),
+    url("https://img.freepik.com/free-vector/lipstick-cosmetics-make-up-beauty-product-banner_107791-1391.jpg?size=626&ext=jpg");
+  background-position: 45% 35%;
+}
+.banners .banner-cosmetics-button {
+  background-color: rgb(119, 162, 67);
+}
+.banners .banner-clothes {
+  background: linear-gradient(
+      0deg,
+      /* rgba(255, 0, 150, 0.3), */ /* rgb(217, 140, 151.1), */
+        rgb(196, 149, 182, 0.5),
+      rgb(196, 149, 182, 0.9)
+    ),
+    url("https://img.freepik.com/free-vector/shopping-mall-with-shops-female-cloths-store-sales-boutique-room-interior-fashion-customers-happy-women-cartoon-illustration_169479-359.jpg?size=626&ext=jpg");
+  background-position: 45% 35%;
+}
+.banners .banner-clothes-button {
+  background-color: rgba(218, 123, 189, 0.9);
+}
+
+/* FOOTER  */
+.social .facebook-icon {
+  background-color: #3b5998 !important;
+}
+.social .whatsapp-icon {
+  background-color: rgb(37, 211, 102) !important;
+}
