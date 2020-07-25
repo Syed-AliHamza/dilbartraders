@@ -53,7 +53,7 @@
               <div class="topbar-left d-flex">
                 <div class="email">
                   <i class="fa fa-envelope" aria-hidden="true"></i>Email:
-                  tivatheme@gmail.com
+                  syedalihamza01@outlook.com
                 </div>
                 <a href="https://m.me/dilbarTraders" target="_blank">
                   <i class="fab fa-facebook-messenger" aria-hidden="true"></i>Messenger
