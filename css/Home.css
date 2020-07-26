@@ -1,3 +1,14 @@
+html,
+body {
+  scroll-behavior: smooth;
+}
+#grocery .block-content .tab-content .product-item .product-image img {
+  height: 150px;
+}
+#grocery .block-content .tab-content .product-item {
+  height: 250px;
+}
+
 .banners .banner {
   padding: 20px 20px;
   font-family: mermaid;
@@ -48,12 +59,4 @@
 }
 .banners .banner-clothes-button {
   background-color: rgba(218, 123, 189, 0.9);
-}
-
-/* FOOTER  */
-.social .facebook-icon {
-  background-color: #3b5998 !important;
-}
-.social .whatsapp-icon {
-  background-color: rgb(37, 211, 102) !important;
 }
