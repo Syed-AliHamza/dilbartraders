@@ -8,7 +8,16 @@ body {
 #grocery .block-content .tab-content .product-item {
   height: 250px !important;
 }
-
+@media (max-width: 768px) {
+  #grocery .block-content .tab-content .product-item {
+    height: 250px !important;
+  }
+  #grocery .block-content .tab-content .product-item .product-image img {
+    height: 150px !important;
+  }
+}
+/* #grocery .block-content .tab-content .product-item {
+} */
 .banners .banner {
   padding: 20px 20px;
   font-family: mermaid;
