@@ -3,10 +3,10 @@ body {
   scroll-behavior: smooth;
 }
 #grocery .block-content .tab-content .product-item .product-image img {
-  height: 150px;
+  height: 150px !important;
 }
 #grocery .block-content .tab-content .product-item {
-  height: 250px;
+  height: 250px !important;
 }
 
 .banners .banner {
